@@ -1,0 +1,43 @@
+{
+    "SensorTimestamp": 1709240282000,
+    "FrameWallClock": 1765369426331388160,
+    "ScalerCrop": [
+        0,
+        0,
+        4608,
+        2592
+    ],
+    "AfPauseState": 0,
+    "AfState": 0,
+    "ExposureTime": 5905,
+    "ColourCorrectionMatrix": [
+        1.7214878797531128,
+        -0.46079355478286743,
+        -0.26070430874824524,
+        -0.3001042306423187,
+        1.5704208612442017,
+        -0.27031660079956055,
+        0.150499626994133,
+        -1.1309722661972046,
+        1.9804826974868774
+    ],
+    "FrameDuration": 17849,
+    "AeState": 2,
+    "SensorTemperature": 38.0,
+    "LensPosition": 1.0,
+    "SensorBlackLevels": [
+        4096,
+        4096,
+        4096,
+        4096
+    ],
+    "DigitalGain": 1.0001591444015503,
+    "ColourGains": [
+        1.3261386156082153,
+        3.198798894882202
+    ],
+    "AnalogueGain": 1.1228070259094238,
+    "ColourTemperature": 2919,
+    "Lux": 2178.973876953125,
+    "FocusFoM": 1129
+}

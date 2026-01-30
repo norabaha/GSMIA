@@ -1,0 +1,223 @@
+{
+    "controls": {
+        "ExposureValue": [
+            -8.0,
+            8.0,
+            0.0
+        ],
+        "AwbEnable": [
+            false,
+            true,
+            null
+        ],
+        "ColourCorrectionMatrix": [
+            0.0,
+            8.0,
+            null
+        ],
+        "HdrMode": [
+            0,
+            4,
+            0
+        ],
+        "AnalogueGainMode": [
+            0,
+            1,
+            0
+        ],
+        "ExposureTime": [
+            13,
+            112015096,
+            20000
+        ],
+        "Brightness": [
+            -1.0,
+            1.0,
+            0.0
+        ],
+        "AeEnable": [
+            false,
+            true,
+            true
+        ],
+        "Sharpness": [
+            0.0,
+            16.0,
+            1.0
+        ],
+        "NoiseReductionMode": [
+            0,
+            4,
+            0
+        ],
+        "Contrast": [
+            0.0,
+            32.0,
+            1.0
+        ],
+        "AfMetering": [
+            0,
+            1,
+            0
+        ],
+        "AfPause": [
+            0,
+            2,
+            0
+        ],
+        "SyncFrames": [
+            1,
+            1000000,
+            100
+        ],
+        "Saturation": [
+            0.0,
+            32.0,
+            1.0
+        ],
+        "StatsOutputEnable": [
+            false,
+            true,
+            false
+        ],
+        "AeFlickerPeriod": [
+            100,
+            1000000,
+            null
+        ],
+        "AnalogueGain": [
+            1.1228070259094238,
+            16.0,
+            1.0
+        ],
+        "CnnEnableInputTensor": [
+            false,
+            true,
+            false
+        ],
+        "AwbMode": [
+            0,
+            7,
+            0
+        ],
+        "AfTrigger": [
+            0,
+            1,
+            0
+        ],
+        "FrameDurationLimits": [
+            17849,
+            112075593,
+            33333
+        ],
+        "SyncMode": [
+            0,
+            2,
+            0
+        ],
+        "AfWindows": [
+            [
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                65535,
+                65535,
+                65535,
+                65535
+            ],
+            [
+                0,
+                0,
+                0,
+                0
+            ]
+        ],
+        "AeExposureMode": [
+            0,
+            3,
+            0
+        ],
+        "AfSpeed": [
+            0,
+            1,
+            0
+        ],
+        "AfRange": [
+            0,
+            2,
+            0
+        ],
+        "ScalerCrop": [
+            [
+                0,
+                0,
+                578,
+                326
+            ],
+            [
+                0,
+                0,
+                4608,
+                2592
+            ],
+            [
+                0,
+                0,
+                4608,
+                2592
+            ]
+        ],
+        "ColourTemperature": [
+            100,
+            100000,
+            null
+        ],
+        "AfMode": [
+            0,
+            2,
+            0
+        ],
+        "AeMeteringMode": [
+            0,
+            3,
+            0
+        ],
+        "AeFlickerMode": [
+            0,
+            1,
+            0
+        ],
+        "LensPosition": [
+            0.0,
+            15.0,
+            1.0
+        ],
+        "ExposureTimeMode": [
+            0,
+            1,
+            0
+        ],
+        "ColourGains": [
+            0.0,
+            32.0,
+            null
+        ],
+        "AeConstraintMode": [
+            0,
+            3,
+            0
+        ]
+    },
+    "configuration": {
+        "format": "SBGGR16",
+        "size": [
+            2304,
+            1296
+        ],
+        "stride": 4608,
+        "framesize": 5971968
+    }
+}
